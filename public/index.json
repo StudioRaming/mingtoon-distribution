@@ -1,0 +1,26 @@
+{
+  "name": "MingToon Core",
+  "id": "com.studioraming.mingtoon.repository",
+  "url": "https://studioraming.github.io/mingtoon-distribution/index.json",
+  "author": "StudioRaming",
+  "packages": {
+    "com.studioraming.mingtoon": {
+      "versions": {
+        "0.1.8-dev.1": {
+          "name": "com.studioraming.mingtoon",
+          "version": "0.1.8-dev.1",
+          "displayName": "MingToon",
+          "unity": "2021.3",
+          "description": "MingToon core BRP toon shader",
+          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8-dev.1/com.studioraming.mingtoon-0.1.8-dev.1.zip",
+          "zipSHA256": "e7a6c0513d7dbc99f13770aa7081a9eb90904cc89c1d92ea54187ab896c44f6a",
+          "author": {
+            "name": "StudioRaming",
+            "email": "studioraming@gmail.com"
+          },
+          "changelogUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8-dev.1/CHANGELOG.md"
+        }
+      }
+    }
+  }
+}
