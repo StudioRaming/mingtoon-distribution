@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageId": "com.studioraming.mingtoon",
-  "version": "0.1.8-dev.6",
+  "version": "0.1.9-dev.1",
   "minimumUnity": "2021.3",
-  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.8-dev.6-r2-update.unitypackage",
-  "installerSha256": "7d7ae99c53d02f5aff8bd7a0e90bb30ef36f06bd160efd2c2291983fe226d754",
-  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8-dev.6/com.studioraming.mingtoon-0.1.8-dev.6.zip",
-  "packageZipSha256": "3d08a5cbe120b2ed70d234f12acb27134d4963d6bb482d6b292ad18376a6a0a5",
-  "changelog": "MingToon 0.1.8-dev.6\n\n한국어: 최초 DLL 임포트 후 자동 설치합니다. 이후 Unity 시작 시 새 버전만 알리며, 업데이트 버튼을 누르면 설치합니다. 설치 중 중단되면 다음 실행에서 재시도 안내를 표시합니다. VCC 설치본은 VCC에서 업데이트하세요.\n\nEnglish: Import the DLL for automatic initial installation. Later startup checks only notify you; click Update to install. Interrupted installs show retry guidance on the next launch. Update VCC installations through VCC.\n\n日本語: DLL の初回インポート後は自動でインストールします。以後は起動時に新バージョンを通知し、更新ボタンでインストールします。中断時は次回起動で再試行を案内します。VCC 版は VCC で更新してください。",
+  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.9-dev.1-update.unitypackage",
+  "installerSha256": "afba0d0f517832a7d755b8f2f579d4e89f47cd2bd452a0f569874a635feb4ee7",
+  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.9-dev.1/com.studioraming.mingtoon-0.1.9-dev.1.zip",
+  "packageZipSha256": "5c15bff9625aa0ce2ce8f827b14f1102eab3273400161cba42694bd04b280289",
+  "changelog": "MingToon 0.1.9-dev.1\n\n업데이트 테스트용 개발 버전입니다. 0.1.8 클린 설치본에서 업데이트 알림과 설치 동작을 확인합니다. 셰이더와 에디터 코드는 0.1.8 후보와 동일합니다. 설치기는 추가 파일 보존 경고, DLL 재임포트 타임스탬프 수정, 갱신 호출 시점 조정안을 포함합니다. 기존 설치본 업데이트 완료 여부는 아직 미검증입니다.",
   "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.8#v018"
 }
