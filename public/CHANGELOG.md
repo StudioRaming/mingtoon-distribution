@@ -1,8 +1,10 @@
-# MingToon 0.1.8-dev.3
+# MingToon 0.1.8
 
-Prerelease / プレリリース / 사전 출시
+Open Beta / オープンベータ / 오픈 베타
 
 ## English
+
+- Preserved Unity-generated package manifest metadata during verified updates.
 
 - The DLL installer downloads the release from the server and verifies it before replacing a recognized older MingToon installation. Existing materials and scenes are preserved.
 - The update controls use a compact two-line layout, and the patch-notes button opens MingToon Docs.
@@ -14,6 +16,8 @@ Prerelease / プレリリース / 사전 출시
 
 ## 日本語
 
+- 検証済み更新時にUnityが生成したパッケージマニフェストのメタデータを保持します。
+
 - DLLインストーラーはサーバーからリリースを取得し、検証後に対応する旧MingToonを置き換えます。既存のマテリアルとシーンは保持されます。
 - 更新操作をコンパクトな2行にまとめ、パッチノートのボタンからMingToon Docsを開くようにしました。
 - DLLで導入した場合、MingToon Managerの概要に現在のバージョン、確認済みの最新バージョン、パッチノート、更新操作が表示されます。
@@ -23,6 +27,8 @@ Prerelease / プレリリース / 사전 출시
 - Unity 2021.3 / 2022.3対応。BRP Coreパッケージで、URPは別アドオンです。既存のオープンベータ利用条件と対応範囲が適用されます: https://studioraming.github.io/mingtoon-site/ja/download/
 
 ## 한국어
+
+- 업데이트 검증 시 Unity가 생성한 패키지 매니페스트 메타데이터를 보존합니다。
 
 - DLL 설치기가 서버에서 릴리스를 내려받아 검증한 뒤, 지원되는 기존 MingToon을 교체합니다. 기존 머티리얼과 씬은 보존합니다.
 - 업데이트 영역을 작은 두 줄 UI로 줄이고 패치노트 버튼을 MingToon Docs에 연결했습니다.

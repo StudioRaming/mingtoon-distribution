@@ -33,6 +33,20 @@
             "email": "studioraming@gmail.com"
           },
           "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog"
+        },
+        "0.1.8": {
+          "name": "com.studioraming.mingtoon",
+          "version": "0.1.8",
+          "displayName": "MingToon",
+          "unity": "2021.3",
+          "description": "MingToon core BRP toon shader",
+          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8/com.studioraming.mingtoon-0.1.8.zip",
+          "zipSHA256": "c830177aee786f7afb012f7667d3c9acb99c3aae2577469ced09909662e9f44b",
+          "author": {
+            "name": "StudioRaming",
+            "email": "studioraming@gmail.com"
+          },
+          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog#v018"
         }
       }
     }
