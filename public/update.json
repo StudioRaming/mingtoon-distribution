@@ -3,7 +3,7 @@
   "packageId": "com.studioraming.mingtoon",
   "version": "0.1.8",
   "minimumUnity": "2021.3",
-  "installerUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8/MingToon.0.1.8.Open.Beta.unitypackage",
+  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.8-Open-Beta.unitypackage",
   "installerSha256": "59523e0018fc2b23f5f695250722bf36ad16c328f6f2c85e78adac605cab4d4b",
   "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8/com.studioraming.mingtoon-0.1.8.zip",
   "packageZipSha256": "c830177aee786f7afb012f7667d3c9acb99c3aae2577469ced09909662e9f44b",
