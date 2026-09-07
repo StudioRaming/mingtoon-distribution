@@ -13,30 +13,12 @@
           "unity": "2021.3",
           "description": "MingToon core BRP toon shader",
           "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8/com.studioraming.mingtoon-0.1.8.zip",
-          "zipSHA256": "c830177aee786f7afb012f7667d3c9acb99c3aae2577469ced09909662e9f44b",
+          "zipSHA256": "a07a8b94e268650186613ff034ec4d0c371ce254e05982be9daaeac9ec8f3249",
           "author": {
             "name": "StudioRaming",
             "email": "studioraming@gmail.com"
           },
           "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.8#v018"
-        },
-        "0.1.9-dev.1": {
-          "name": "com.studioraming.mingtoon",
-          "version": "0.1.9-dev.1",
-          "displayName": "MingToon",
-          "unity": "2021.3",
-          "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.9-dev.1/com.studioraming.mingtoon-0.1.9-dev.1.zip",
-          "zipSHA256": "5c15bff9625aa0ce2ce8f827b14f1102eab3273400161cba42694bd04b280289"
-        },
-        "0.1.9-dev.2": {
-          "name": "com.studioraming.mingtoon",
-          "version": "0.1.9-dev.2",
-          "displayName": "MingToon",
-          "unity": "2021.3",
-          "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.9-dev.2/com.studioraming.mingtoon-0.1.9-dev.2.zip",
-          "zipSHA256": "36b7261c0274c86b9affce1c49e9abe69c0dda09cc42620cb5578b85d45c817d"
         }
       }
     }

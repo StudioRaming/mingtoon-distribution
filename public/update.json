@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageId": "com.studioraming.mingtoon",
-  "version": "0.1.9-dev.2",
+  "version": "0.1.8",
   "minimumUnity": "2021.3",
-  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.9-dev.2-update.unitypackage",
-  "installerSha256": "85ecd8bcd586bcbf1875e85f666b68e52a89f927ceecdd1167af1a8ca430dd2d",
-  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.9-dev.2/com.studioraming.mingtoon-0.1.9-dev.2.zip",
-  "packageZipSha256": "36b7261c0274c86b9affce1c49e9abe69c0dda09cc42620cb5578b85d45c817d",
-  "changelog": "MingToon 0.1.9-dev.2\n\n신규 설치 후 업데이트를 확인하기 위한 개발 버전입니다. 기존 설치에서는 바뀐 파일을 Unity 기본 패키지 임포트로 적용하고 전체 설치 파일을 검증합니다. 신규 설치는 전체 파일을 설치합니다. 사용자 추가 파일 보존, 연속 임포트 타임스탬프, 자동 설치 완료 시 창 정리를 수정했습니다. 셰이더와 에디터 기능 코드는 0.1.9-dev.1과 동일합니다.",
+  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.8-final-update.unitypackage",
+  "installerSha256": "9f7f6cab4849d4ff95aee01eabdb0aacbcc4052d836e994df9b14390acdf3c56",
+  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8/com.studioraming.mingtoon-0.1.8.zip",
+  "packageZipSha256": "a07a8b94e268650186613ff034ec4d0c371ce254e05982be9daaeac9ec8f3249",
+  "changelog": "MingToon 0.1.8 Open Beta\n\n최초 설치는 전체 패키지를 자동으로 설치합니다. 업데이트 완료 처리와 설치기 종료 오류를 수정했으며, 기존 씬·머티리얼과 추가 파일을 보존합니다. 이후 새 버전 알림에서 업데이트할 수 있습니다.\n\nInitial installation automatically installs the complete package. Update completion and installer cleanup are fixed while preserving existing scenes, materials, and additional files. Later version notices let you choose when to update.\n\n初回はパッケージ全体を自動でインストールします。更新完了とインストーラー終了の処理を修正し、既存のシーン、マテリアル、追加ファイルを保持します。以後は新バージョンの通知から更新できます。",
   "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.8#v018"
 }
