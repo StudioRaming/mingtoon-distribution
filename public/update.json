@@ -3,8 +3,8 @@
   "packageId": "com.studioraming.mingtoon",
   "version": "0.1.8-dev.1",
   "minimumUnity": "2021.3",
-  "installerUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8-dev.1/MingToon-0.1.8-dev.1-installer.unitypackage",
-  "installerSha256": "4d125c2ca3de7ec9255d629cb461dd5a6ac31bafc48ce518b0f38cb37dff879a",
+  "installerUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8-dev.1/MingToon-0.1.8-dev.1-installer-r2.unitypackage",
+  "installerSha256": "d8bfbd43b1b076802c7edef7fbafc0e549c58b15916831835dbc56d7b7d073d5",
   "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8-dev.1/com.studioraming.mingtoon-0.1.8-dev.1.zip",
   "packageZipSha256": "e7a6c0513d7dbc99f13770aa7081a9eb90904cc89c1d92ea54187ab896c44f6a",
   "changelog": "# MingToon 0.1.8-dev.1\n\nPrerelease / 사전 출시 / プレリリース\n\n## English\n- Added VPM package installation and update UI, with a DLL installer.\n- Grouped identical shader bake requests and preserved recovery on failure.\n- Distribution packages remove development features, developer logs, and non-license source comments. Required legal notices and user-facing recovery errors remain.\n- Core BRP package. URP is a separate add-on. See the existing open-beta terms and support limits at https://studioraming.github.io/mingtoon-site/en/download/.\n\n## 日本語\n- VPMパッケージの導入・更新UIとDLLインストーラーを追加しました。\n- 同一のシェーダーベイク要求をまとめ、失敗時の復旧処理を維持しました。\n- 配布パッケージから開発用機能・開発ログ・ライセンス以外のソースコメントを除去します。必要な法的表示と復旧用エラー表示は維持します。\n- BRPコア版です。URPは別アドオンです。オープンベータの利用条件と対応範囲は https://studioraming.github.io/mingtoon-site/ja/download/ をご確認ください。\n\n## 한국어\n- VPM 패키지 설치·업데이트 UI와 DLL 설치기를 추가했습니다.\n- 동일한 셰이더 베이크 요청을 묶고 실패 시 복구 처리를 유지했습니다.\n- 배포 패키지에서 개발 기능·개발 로그·라이선스 외 소스 주석을 제거합니다. 필요한 법적 고지와 사용자용 복구 오류 안내는 보존합니다.\n- BRP Core 패키지이며 URP는 별도 애드온입니다. 기존 오픈 베타 이용 조건과 지원 제한은 https://studioraming.github.io/mingtoon-site/ko/download/ 에서 확인하세요.\n"
