@@ -1,3 +1,27 @@
+# MingToon 0.1.9
+
+Open Beta / オープンベータ / 오픈 베타
+
+## English
+
+Improved Emission and Glitter appearance and lilToon shadow conversion. The Manager now has Get Started, Look & Bake and Optimize tabs, separate Look and Color Palette controls, reapply and Undo for existing MingToon materials, per-material conversion and texture-size limits.
+
+[Full patch notes](https://studioraming.github.io/mingtoon-docs/en/changelog/0.1.9#v019)
+
+## 日本語
+
+Emission・Glitterの表現とlilToonの影変換を改善しました。Managerをはじめに・外観／ベイク・最適化の3タブに整理し、LookとColor Paletteの個別選択、既存MingToonマテリアルへの再適用とUndo、マテリアル単位の変換、テクスチャサイズ制限を追加しました。
+
+[変更履歴](https://studioraming.github.io/mingtoon-docs/ja/changelog/0.1.9#v019)
+
+## 한국어
+
+Emission·Glitter 표현과 lilToon 그림자 변환을 개선했습니다. Manager를 시작하기 / 룩·베이크 / 최적화의 세 탭으로 정리하고, Look과 Color Palette 선택, 기존 MingToon 머티리얼 재적용과 Undo, 재질별 변환 및 텍스처 크기 제한을 추가했습니다.
+
+[전체 패치노트](https://studioraming.github.io/mingtoon-docs/changelog/0.1.9#v019)
+
+---
+
 # MingToon 0.1.8
 
 Open Beta / オープンベータ / 오픈 베타
