@@ -4,7 +4,7 @@
   "version": "0.1.10-preview.1",
   "minimumUnity": "2021.3",
   "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.10-preview.1-update.unitypackage",
-  "installerSha256": "df4b5cf930e5e6d83580265b7ac50e0a37f323c82673a8f59ecc78b4623c0d9c",
+  "installerSha256": "7ff862855a82ce194127211f5b985978ebabe2dc62bf34ad0419d89d0ec84c2b",
   "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.10-preview.1/com.studioraming.mingtoon-0.1.10-preview.1.zip",
   "packageZipSha256": "50f166f1510ca99f3d50dda13ec2c9d8528e9b46f50996ffd7ab5bd406be0036",
   "changelog": "# MingToon 0.1.10-preview.1\n\nPrerelease / 사전 출시 / プレリリース\n\n## English\n- Uploads finish faster.\n- Added lilToon material conversion.\n- Improved the Inspector.\n- Improved bake stability.\n- Improved the texture packing system.\n- Depth Effect now defaults to off, and runtime shader cost is reduced.\n- Re-bake your materials and re-upload the avatar for these changes to take effect.\n\n## 日本語\n- アップロード時間を短縮しました。\n- lilToon マテリアルの変換に対応しました。\n- インスペクターを改善しました。\n- ベイクの安定性を高めました。\n- テクスチャパッキングシステムを改善しました。\n- 深度エフェクトは初期状態でオフになり、ランタイムのシェーダー負荷を軽減しました。\n- 既存のマテリアルは再ベイクし、アバターを再アップロードすると反映されます。\n\n## 한국어\n- 업로드 시간을 줄였습니다.\n- lilToon 재질 변환을 지원합니다.\n- 인스펙터를 개선했습니다.\n- 베이크 안정성을 높였습니다.\n- 텍스처 패킹 시스템을 개선했습니다.\n- 깊이 효과가 기본 꺼짐이 되고, 런타임 셰이더 부하를 줄였습니다.\n- 기존 재질은 베이크를 다시 구우고 아바타를 재업로드해야 반영됩니다.\n"
