@@ -1,12 +1,11 @@
 {
   "schemaVersion": 1,
   "packageId": "com.studioraming.mingtoon",
-  "version": "0.1.9",
+  "version": "0.1.10-preview.1",
   "minimumUnity": "2021.3",
-  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.9-update.unitypackage",
-  "installerSha256": "c381916150a2cc14919f9c96150d6fab36b8bb9429be964cda7157ae152a13bf",
-  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.9/com.studioraming.mingtoon-0.1.9.zip",
-  "packageZipSha256": "6f425bb7803365208935496762b47fa48324465f26e9cf8a0ac6ed1bb0162bb0",
-  "changelog": "MingToon 0.1.9 Open Beta\n\nEmission·Glitter 표현과 lilToon 그림자 변환을 개선했습니다. Manager를 시작하기 / 룩·베이크 / 최적화의 세 탭으로 정리하고, Look과 Color Palette 선택, 기존 MingToon 머티리얼 재적용과 Undo, 재질별 변환 및 텍스처 크기 제한을 추가했습니다.\n\nImproved Emission and Glitter appearance and lilToon shadow conversion. The Manager now has Get Started, Look & Bake and Optimize tabs, separate Look and Color Palette controls, reapply and Undo for existing MingToon materials, per-material conversion and texture-size limits.\n\nEmission・Glitterの表現とlilToonの影変換を改善しました。Managerをはじめに・外観／ベイク・最適化の3タブに整理し、LookとColor Paletteの個別選択、既存MingToonマテリアルへの再適用とUndo、マテリアル単位の変換、テクスチャサイズ制限を追加しました。",
-  "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.9#v019"
+  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.10-preview.1-update.unitypackage",
+  "installerSha256": "df4b5cf930e5e6d83580265b7ac50e0a37f323c82673a8f59ecc78b4623c0d9c",
+  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.10-preview.1/com.studioraming.mingtoon-0.1.10-preview.1.zip",
+  "packageZipSha256": "50f166f1510ca99f3d50dda13ec2c9d8528e9b46f50996ffd7ab5bd406be0036",
+  "changelog": "# MingToon 0.1.10-preview.1\n\nPrerelease / 사전 출시 / プレリリース\n\n## English\n- Uploads finish faster.\n- Added lilToon material conversion.\n- Improved the Inspector.\n- Improved bake stability.\n- Improved the texture packing system.\n- Depth Effect now defaults to off, and runtime shader cost is reduced.\n- Re-bake your materials and re-upload the avatar for these changes to take effect.\n\n## 日本語\n- アップロード時間を短縮しました。\n- lilToon マテリアルの変換に対応しました。\n- インスペクターを改善しました。\n- ベイクの安定性を高めました。\n- テクスチャパッキングシステムを改善しました。\n- 深度エフェクトは初期状態でオフになり、ランタイムのシェーダー負荷を軽減しました。\n- 既存のマテリアルは再ベイクし、アバターを再アップロードすると反映されます。\n\n## 한국어\n- 업로드 시간을 줄였습니다.\n- lilToon 재질 변환을 지원합니다.\n- 인스펙터를 개선했습니다.\n- 베이크 안정성을 높였습니다.\n- 텍스처 패킹 시스템을 개선했습니다.\n- 깊이 효과가 기본 꺼짐이 되고, 런타임 셰이더 부하를 줄였습니다.\n- 기존 재질은 베이크를 다시 구우고 아바타를 재업로드해야 반영됩니다.\n"
 }
