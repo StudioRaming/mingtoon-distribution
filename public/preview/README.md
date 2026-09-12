@@ -1,12 +1,9 @@
-# MingToon preview listing
+# MingToon Preview Repository
 
-Test-only VPM listing for preview candidates. The stable listing stays at
-`../index.json` and is not affected by anything in this folder.
+Preview distribution is temporarily suspended while build and texture-packing issues are investigated.
 
-Add this URL as a separate repository in VRChat Creator Companion:
+No preview packages are currently offered. The existing stable repository continues to offer 0.1.9.
 
-    https://studioraming.github.io/mingtoon-distribution/preview/index.json
+Repository URL: https://studioraming.github.io/mingtoon-distribution/preview/index.json
 
-Current preview: `0.1.10-preview.1` (Unity 2021.3+, BRP core-only), uploaded as the
-GitHub prerelease `v0.1.10-preview.1`. Promote to a formal version only after the
-required gates pass, then remove the entry from this listing.
+Existing installations are not changed automatically.
