@@ -9,4 +9,4 @@ Current preview: **0.1.10-preview.2**, BRP core.
 
 Existing preview.1 DLL installations check the stable update feed. Import the preview update installer above once to move to the preview feed; preview.2 then checks `/preview/update.json`.
 
-The stable channel remains at 0.1.9. Preview updates require re-baking materials and re-uploading avatars. End-to-end QA is in progress for this preview.
+The stable channel remains at 0.1.9. Preview updates require re-baking materials and re-uploading avatars. The DLL update, fresh Low/High conversions and two private VRChat uploads were verified on 2026-09-14 (Unity 2022.3.22f1). In-world visual checks and an existing-material preservation investigation remain open; see the release QA status above.
