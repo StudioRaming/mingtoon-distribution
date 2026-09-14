@@ -1,3 +1,48 @@
+# MingToon 0.1.10
+
+Open Beta · BRP Core · Unity 2021.3 / 2022.3 LTS
+
+## English
+
+- Reduced repeated shader calculations and simplified outline lighting; improved bake reuse and recovery.
+- Unified the Inspector layout, preset controls and compact performance indicators.
+- Added clearer texture cards, section grouping and size sorting, plus bulk resolution and compression settings.
+- Improved individual layer addition, enable/disable, movement and deletion, including checks for related animation curves.
+- Added the default Plane face proxy and moved Receiver Pushback to Face Shading. With 2D Shadow enabled and pushback above zero, projected-shadow reception is disabled; switching 2D Shadow off or restoring zero restores the original setting.
+- Improved lilToon conversion, color-only layers, depth-light and WARUDO build handling, and refreshed factory presets.
+
+Back up before updating. Restore previously baked materials to editable form, then re-bake and re-upload to apply the changes. This package contains BRP Core; URP and Ming Light Controller are separate. Existing noncommercial Open Beta terms apply.
+
+[Full patch notes](https://studioraming.github.io/mingtoon-docs/en/changelog/0.1.10#v0110) · [Install / update](https://studioraming.github.io/mingtoon-site/en/download/)
+
+## 日本語
+
+- シェーダーの重複計算とアウトラインの照明処理を軽量化し、ベイク結果の再利用と復元を改善しました。
+- 設定画面、プリセット操作、コンパクトな負荷表示を統一しました。
+- テクスチャカード、セクション別表示と容量順の並び替え、解像度・圧縮の一括設定を改善しました。
+- レイヤーごとの追加・有効／無効・移動・削除を改善し、関連するアニメーションカーブも確認します。
+- 顔プロキシに標準の平面モードを追加し、受信面の押し戻しを顔シェーディングに移しました。2Dシャドウが有効で押し戻しが0より大きい間は投影シャドウの受信を無効にし、2Dシャドウを切るか0に戻すと元の設定に戻ります。
+- lilToon変換、色のみのレイヤー、深度ライト、WARUDOビルド処理を改善し、ファクトリープリセットを更新しました。
+
+更新前にバックアップしてください。ベイク済みマテリアルは編集用に戻して再ベイクし、アバターも再アップロードすると変更が反映されます。本パッケージはBRP Coreです。URPとMing Light Controllerは別製品で、既存の非商用Open Beta利用条件が適用されます。
+
+[詳しい変更点](https://studioraming.github.io/mingtoon-docs/ja/changelog/0.1.10#v0110) · [導入・更新](https://studioraming.github.io/mingtoon-site/ja/download/)
+
+## 한국어
+
+- 셰이더의 반복 계산과 아웃라인 조명 처리를 줄이고 베이크 재사용·복구를 개선했습니다.
+- 인스펙터 배치, 프리셋 조작과 간결한 성능 부하 표시를 통일했습니다.
+- 텍스처 카드, 섹션 묶기·용량순 정렬, 해상도·압축 일괄 설정을 개선했습니다.
+- 레이어별 추가·켜기/끄기·이동·삭제와 관련 애니메이션 커브 확인을 개선했습니다.
+- 기본 평면 얼굴 프록시를 추가하고 수신면 밀기를 얼굴 셰이딩으로 옮겼습니다. 2D 그림자가 켜져 있고 밀기가 양수이면 투영 그림자 수신이 꺼지며, 2D 그림자를 끄거나 밀기를0으로 돌리면 원래 설정으로 돌아옵니다.
+- lilToon 변환, 색상 전용 레이어, 깊이 라이트·WARUDO 빌드 처리를 개선하고 팩토리 프리셋을 갱신했습니다.
+
+업데이트 전에 백업해 주세요. 기존 베이크 재질은 편집용으로 복원한 뒤 다시 베이크하고, 아바타도 재업로드해야 변경이 적용됩니다. BRP 코어 패키지이며 URP와 Ming Light Controller는 별도입니다. 기존 비상업용 Open Beta 이용 조건이 적용됩니다.
+
+[전체 패치노트](https://studioraming.github.io/mingtoon-docs/changelog/0.1.10#v0110) · [설치·업데이트](https://studioraming.github.io/mingtoon-site/ko/download/)
+
+---
+
 # MingToon 0.1.9
 
 Open Beta / オープンベータ / 오픈 베타
