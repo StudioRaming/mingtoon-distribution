@@ -3,5 +3,23 @@
   "id": "com.studioraming.mingtoon.preview.repository",
   "url": "https://studioraming.github.io/mingtoon-distribution/preview/index.json",
   "author": "StudioRaming",
-  "packages": {}
-}
+  "packages": {
+    "com.studioraming.mingtoon": {
+      "versions": {
+        "0.1.10-preview.2": {
+          "name": "com.studioraming.mingtoon",
+          "version": "0.1.10-preview.2",
+          "displayName": "MingToon",
+          "unity": "2021.3",
+          "description": "MingToon core BRP toon shader (preview test build)",
+          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.10-preview.2/com.studioraming.mingtoon-0.1.10-preview.2.zip",
+          "zipSHA256": "9eee56ef4c3080ef77fe0fa0d004f1f3d893fd78b206b704c517830458804bf3",
+          "author": {
+            "name": "StudioRaming",
+            "email": "studioraming@gmail.com"
+          }
+        }
+      }
+    }
+  }
+}

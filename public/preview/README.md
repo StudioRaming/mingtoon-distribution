@@ -1,9 +1,12 @@
-# MingToon Preview Repository
+# MingToon preview channel
 
-Preview distribution is temporarily suspended while build and texture-packing issues are investigated.
+Current preview: **0.1.10-preview.2**, BRP core.
 
-No preview packages are currently offered. The existing stable repository continues to offer 0.1.9.
+- [Update an existing DLL installation](https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.10-preview.2-update.unitypackage)
+- [Initial bootstrap installer](https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.10-preview.2-initial-bootstrap.unitypackage)
+- [Preview VPM repository](https://studioraming.github.io/mingtoon-distribution/preview/index.json)
+- [Release and QA status](https://github.com/StudioRaming/mingtoon-distribution/releases/tag/v0.1.10-preview.2)
 
-Repository URL: https://studioraming.github.io/mingtoon-distribution/preview/index.json
+Existing preview.1 DLL installations check the stable update feed. Import the preview update installer above once to move to the preview feed; preview.2 then checks `/preview/update.json`.
 
-Existing installations are not changed automatically.
+The stable channel remains at 0.1.9. Preview updates require re-baking materials and re-uploading avatars. End-to-end QA is in progress for this preview.

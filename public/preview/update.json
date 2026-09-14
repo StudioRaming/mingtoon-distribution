@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageId": "com.studioraming.mingtoon",
+  "version": "0.1.10-preview.2",
+  "minimumUnity": "2021.3",
+  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.10-preview.2-update.unitypackage",
+  "installerSha256": "d5ab4827a4c7ce21a6c07fa1a65a4b48f942066c998e0e2620f506a01fbd4011",
+  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.10-preview.2/com.studioraming.mingtoon-0.1.10-preview.2.zip",
+  "packageZipSha256": "9eee56ef4c3080ef77fe0fa0d004f1f3d893fd78b206b704c517830458804bf3",
+  "changelog": "# MingToon 0.1.10-preview.2\n\nPrerelease / 사전 출시 / プレリリース\n\n## English\n- Preview distribution for the verified MingToon core BRP package.\n- Includes matching bootstrap and update installers.\n- Re-bake materials and re-upload avatars after installing this preview.\n\n## 日本語\n- 検証済みのMingToonコアBRPパッケージのプレビュー配布です。\n- 対応するブートストラップインストーラーと更新インストーラーを含みます。\n- インストール後、マテリアルを再ベイクしてアバターを再アップロードしてください。\n\n## 한국어\n- 검증된 MingToon 코어 BRP 패키지의 프리뷰 배포입니다.\n- 대응하는 부트스트랩 설치 패키지와 업데이트 설치 패키지를 포함합니다.\n- 설치 후 재질을 다시 베이크하고 아바타를 다시 업로드해야 반영됩니다.\n"
+}
