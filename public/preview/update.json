@@ -1,11 +1,12 @@
 {
   "schemaVersion": 1,
   "packageId": "com.studioraming.mingtoon",
-  "version": "0.1.10-preview.2",
+  "version": "0.1.11-preview.1",
   "minimumUnity": "2021.3",
-  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.10-preview.2-update.unitypackage",
-  "installerSha256": "d5ab4827a4c7ce21a6c07fa1a65a4b48f942066c998e0e2620f506a01fbd4011",
-  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.10-preview.2/com.studioraming.mingtoon-0.1.10-preview.2.zip",
-  "packageZipSha256": "9eee56ef4c3080ef77fe0fa0d004f1f3d893fd78b206b704c517830458804bf3",
-  "changelog": "# MingToon 0.1.10-preview.2\n\nPrerelease / 사전 출시 / プレリリース\n\n## English\n- Preview distribution for the verified MingToon core BRP package.\n- Includes matching bootstrap and update installers.\n- Re-bake materials and re-upload avatars after installing this preview.\n\n## 日本語\n- 検証済みのMingToonコアBRPパッケージのプレビュー配布です。\n- 対応するブートストラップインストーラーと更新インストーラーを含みます。\n- インストール後、マテリアルを再ベイクしてアバターを再アップロードしてください。\n\n## 한국어\n- 검증된 MingToon 코어 BRP 패키지의 프리뷰 배포입니다.\n- 대응하는 부트스트랩 설치 패키지와 업데이트 설치 패키지를 포함합니다.\n- 설치 후 재질을 다시 베이크하고 아바타를 다시 업로드해야 반영됩니다.\n"
+  "installerUrl": "https://studioraming.github.io/mingtoon-distribution/installers/MingToon-0.1.11-preview.1-update.unitypackage",
+  "installerSha256": "18b5f4de6ae0e1b50fb088ab0693e6da65650816803a01065365809491527ff5",
+  "packageZipUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.11-preview.1/com.studioraming.mingtoon-0.1.11-preview.1.zip",
+  "packageZipSha256": "a9df027642002fe3591d621e1fd6685b4a8c9aa644a7eae730123f6a388461c0",
+  "changelog": "# MingToon 0.1.11-preview.1\n\nPrerelease / 사전 출시 / プレリリース\n\n## English\n- Compatibility path for projects updating from a previous version: installing this preview no longer triggers a reimport of the project's whole texture set.\n- Mask and Matcap bakes now write their generated textures in a block format that matches the channel count, so a two-channel pack no longer doubles its memory cost. Alpha information and the existing BC7 compression are unchanged.\n- The cast-shadow boundary colour is no longer drawn on surfaces the form shadow already covers when the unified shadow is off and the form and cast shadows are used separately.\n- Look presets no longer overwrite the layer-content tabs and surface settings the conversion has just migrated.\n- Re-bake materials and re-upload avatars after installing this preview.\n\n## 日本語\n- 以前のバージョンから更新するプロジェクト向けの互換パスを用意しました。このプレリリースをインストールしても、プロジェクト内のテクスチャ全体が再インポートされることはありません。\n- マスクおよびMatcapのベイクが生成するテクスチャの圧縮形式をチャンネル数に合わせました。2チャンネルのパックがメモリを二重に消費することはなくなります。アルファ情報と既存のBC7圧縮は変更していません。\n- 統合シャドウをオフにして形状シャドウと投影シャドウを別々に使う場合、形状シャドウが既に覆っている面に投影シャドウの境界色が描かれなくなりました。\n- ルックプリセットが、変換直後に移行されたレイヤー内容タブとサーフェス設定を上書きしなくなりました。\n- インストール後、マテリアルを再ベイクしてアバターを再アップロードしてください。\n\n## 한국어\n- 이전 버전에서 올라오는 프로젝트를 위한 호환 경로를 정리했습니다. 이 시험판을 설치해도 프로젝트의 전체 텍스처가 다시 임포트되지 않습니다.\n- 마스크와 맷캡 베이크가 생성하는 텍스처의 압축 형식을 채널 수에 맞췄습니다. 2채널 팩이 메모리를 두 배로 쓰지 않습니다. 알파 정보와 기존 BC7 압축은 그대로입니다.\n- 통합 그림자를 끄고 폼·투영 그림자를 따로 쓸 때, 폼 그림자가 이미 덮은 면에 투영 그림자의 경계색이 더 그려지지 않습니다.\n- 룩 프리셋이 변환 직후 옮겨진 레이어 내용 탭과 서피스 설정을 덮어쓰지 않습니다.\n- 설치 후 재질을 다시 베이크하고 아바타를 다시 업로드해야 반영됩니다.",
+  "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.11-preview.1#v0111-preview1"
 }
