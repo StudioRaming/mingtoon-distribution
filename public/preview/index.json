@@ -6,6 +6,20 @@
   "packages": {
     "com.studioraming.mingtoon": {
       "versions": {
+        "0.1.12-preview.3": {
+          "name": "com.studioraming.mingtoon",
+          "version": "0.1.12-preview.3",
+          "displayName": "MingToon",
+          "unity": "2021.3",
+          "description": "MingToon core BRP toon shader",
+          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.12-preview.3/com.studioraming.mingtoon-0.1.12-preview.3.zip",
+          "zipSHA256": "dfcc131e489beec8b2a19673bc45cf5d39356499eb4ecefdb2f7300ce22d2965",
+          "changelogUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/tag/v0.1.12-preview.3",
+          "author": {
+            "name": "StudioRaming",
+            "email": "studioraming@gmail.com"
+          }
+        },
         "0.1.12-preview.2": {
           "name": "com.studioraming.mingtoon",
           "version": "0.1.12-preview.2",
