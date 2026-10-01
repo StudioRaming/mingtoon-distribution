@@ -1,3 +1,33 @@
+# MingToon 0.1.12 Open Beta
+
+BRP Core · Unity 2021.3 / 2022.3 LTS · 2026-10-01
+
+## 한국어
+
+노멀맵 그림자·마스크 작업 흐름, Inspector·Manager·업데이터 UI와 lilToon 변환을 개선했습니다. 원본 보존 자동 아웃라인 베이크, 공용 FastShared 베이크와 반복 셰이더 준비 분석 감소를 포함합니다. 업데이트 전 프로젝트를 백업하고 원본 소재에서 다시 변환하는 것을 권장합니다. 기존 베이크 결과는 편집용으로 복원해 재베이크·재업로드하세요. MLC는 별도 제품입니다.
+
+[전체 0.1.12 패치노트](https://studioraming.github.io/mingtoon-docs/changelog/0.1.12#v0112)
+
+0.1.11에서 업데이트 시작 중 「바꿀 파일을 제거할 수 없습니다」가 표시되면 「설치 상태 확인」을 누른 뒤 「업데이트 확인」으로 다시 조회하고 설치를 재시도해 주세요. 같은 오류가 계속되면 반복 설치하지 말고 프로젝트를 백업한 뒤 오류 화면과 함께 문의해 주세요. 이 구버전의 간헐적인 오류는 새 버전 공개만으로 사라진다고 보장할 수 없습니다. [재시도·문의 안내](https://studioraming.github.io/mingtoon-docs/troubleshooting#update-011-file-replace)
+
+## English
+
+Improved normal-map shadows, mask workflows, Inspector/Manager/updater UI and lilToon conversion. Includes original-preserving automatic outline baking, shared FastShared baking and less repeated shader-preparation analysis. Back up before updating and reconvert from original materials; restore existing baked results to editable form, bake again and re-upload. MLC is separate.
+
+[Full 0.1.12 patch notes](https://studioraming.github.io/mingtoon-docs/en/changelog/0.1.12#v0112)
+
+If 0.1.11 reports “Unable to remove the file to be replaced” when starting an update, select “Check installation state”, then “Check for updates” and retry installation. If the error persists, stop repeating installation, back up the project, and contact support with a screenshot of the error. Publishing a new version alone is not guaranteed to eliminate this intermittent issue in the older updater. [Retry and support instructions](https://studioraming.github.io/mingtoon-docs/en/troubleshooting#update-011-file-replace)
+
+## 日本語
+
+ノーマルマップの影、マスクの作業手順、Inspector・Manager・アップデーターのUI、lilToon変換を改善しました。元を保持する自動アウトラインベイク、共有FastSharedベイク、シェーダー準備の重複解析削減を含みます。更新前にバックアップし、元の素材から再変換することを推奨します。既存のベイク結果は編集用に復元し、再ベイク・再アップロードしてください。MLCは別製品です。
+
+[0.1.12 の詳しい変更点](https://studioraming.github.io/mingtoon-docs/ja/changelog/0.1.12#v0112)
+
+0.1.11で更新開始時に「置き換えるファイルを削除できません」と表示された場合は、「インストール状態を確認」を押し、「更新を確認」で再確認してからインストールを再試行してください。同じエラーが続く場合は繰り返しインストールせず、プロジェクトをバックアップし、エラー画面とともにお問い合わせください。旧アップデーターのこの断続的な問題は、新しいバージョンの公開だけで解消されるとは保証できません。[再試行・お問い合わせの手順](https://studioraming.github.io/mingtoon-docs/ja/troubleshooting#update-011-file-replace)
+
+---
+
 # MingToon 0.1.11
 
 Open Beta · BRP Core · Unity 2021.3 / 2022.3 LTS
