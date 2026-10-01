@@ -6,144 +6,61 @@
   "packages": {
     "com.studioraming.mingtoon": {
       "versions": {
-        "0.1.12-preview.4": {
+        "0.1.11": {
           "name": "com.studioraming.mingtoon",
-          "version": "0.1.12-preview.4",
+          "version": "0.1.11",
           "displayName": "MingToon",
           "unity": "2021.3",
           "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.12-preview.4/com.studioraming.mingtoon-0.1.12-preview.4.zip",
-          "zipSHA256": "ad9859738c4cb3bad1cef78754dc6e60811c8a7ddd4966059bb8d38e8f01141f",
-          "changelogUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/tag/v0.1.12-preview.4",
+          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.11/com.studioraming.mingtoon-0.1.11.zip",
+          "zipSHA256": "a47489a1b7e47ce786b8f4451d28f619e15a37bdceb75844d802dfa5393b2739",
+          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.11#v0111",
           "author": {
             "name": "StudioRaming",
             "email": "studioraming@gmail.com"
           }
         },
-        "0.1.12-preview.3": {
+        "0.1.10": {
           "name": "com.studioraming.mingtoon",
-          "version": "0.1.12-preview.3",
+          "version": "0.1.10",
           "displayName": "MingToon",
           "unity": "2021.3",
           "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.12-preview.3/com.studioraming.mingtoon-0.1.12-preview.3.zip",
-          "zipSHA256": "dfcc131e489beec8b2a19673bc45cf5d39356499eb4ecefdb2f7300ce22d2965",
-          "changelogUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/tag/v0.1.12-preview.3",
+          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.10/com.studioraming.mingtoon-0.1.10.zip",
+          "zipSHA256": "8baaef93602dbdf1403a5face814c6a1abc74a73136aa4f961f0c41428546a45",
+          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.10#v0110",
           "author": {
             "name": "StudioRaming",
             "email": "studioraming@gmail.com"
           }
         },
-        "0.1.12-preview.2": {
+        "0.1.9": {
           "name": "com.studioraming.mingtoon",
-          "version": "0.1.12-preview.2",
+          "version": "0.1.9",
           "displayName": "MingToon",
           "unity": "2021.3",
           "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.12-preview.2/com.studioraming.mingtoon-0.1.12-preview.2.zip",
-          "zipSHA256": "45f1b98202ffffeb019937219cb9a9462fcb6a66393221a7a04a358cb428e17a",
-          "changelogUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/tag/v0.1.12-preview.2",
+          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.9/com.studioraming.mingtoon-0.1.9.zip",
+          "zipSHA256": "6f425bb7803365208935496762b47fa48324465f26e9cf8a0ac6ed1bb0162bb0",
           "author": {
             "name": "StudioRaming",
             "email": "studioraming@gmail.com"
-          }
+          },
+          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.9#v019"
         },
-        "0.1.12-preview.1": {
+        "0.1.8": {
           "name": "com.studioraming.mingtoon",
-          "version": "0.1.12-preview.1",
+          "version": "0.1.8",
           "displayName": "MingToon",
           "unity": "2021.3",
           "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.12-preview.1/com.studioraming.mingtoon-0.1.12-preview.1.zip",
-          "zipSHA256": "0e8a5ed194f382d505fe923a09024ee46ae8c8a23d85c0fc3806d09fd2a3e456",
-          "changelogUrl": "https://github.com/StudioRaming/mingtoon-distribution/releases/tag/v0.1.12-preview.1",
+          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.8/com.studioraming.mingtoon-0.1.8.zip",
+          "zipSHA256": "a07a8b94e268650186613ff034ec4d0c371ce254e05982be9daaeac9ec8f3249",
           "author": {
             "name": "StudioRaming",
             "email": "studioraming@gmail.com"
-          }
-        },
-        "0.1.11-preview.5": {
-          "name": "com.studioraming.mingtoon",
-          "version": "0.1.11-preview.5",
-          "displayName": "MingToon",
-          "unity": "2021.3",
-          "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.11-preview.5/com.studioraming.mingtoon-0.1.11-preview.5.zip",
-          "zipSHA256": "e6bc0455343e2d6a3ad4439facac7c99c6993eae5e24ee0dd6589a24f7ac1be1",
-          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.11-preview.5#v0111-preview5",
-          "author": {
-            "name": "StudioRaming",
-            "email": "studioraming@gmail.com"
-          }
-        },
-        "0.1.11-preview.4": {
-          "name": "com.studioraming.mingtoon",
-          "version": "0.1.11-preview.4",
-          "displayName": "MingToon",
-          "unity": "2021.3",
-          "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.11-preview.4/com.studioraming.mingtoon-0.1.11-preview.4.zip",
-          "zipSHA256": "4745f0c069dfe8328580b5619430c64126bc429206b82dabb91981d3921e3d31",
-          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.11-preview.4#v0111-preview4",
-          "author": {
-            "name": "StudioRaming",
-            "email": "studioraming@gmail.com"
-          }
-        },
-        "0.1.11-preview.3": {
-          "name": "com.studioraming.mingtoon",
-          "version": "0.1.11-preview.3",
-          "displayName": "MingToon",
-          "unity": "2021.3",
-          "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.11-preview.3/com.studioraming.mingtoon-0.1.11-preview.3.zip",
-          "zipSHA256": "669fc48e568f78705c40970748db9fbe0088bf6d967b450d5db5d4c83b898355",
-          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.11-preview.3#v0111-preview3",
-          "author": {
-            "name": "StudioRaming",
-            "email": "studioraming@gmail.com"
-          }
-        },
-        "0.1.11-preview.2": {
-          "name": "com.studioraming.mingtoon",
-          "version": "0.1.11-preview.2",
-          "displayName": "MingToon",
-          "unity": "2021.3",
-          "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.11-preview.2/com.studioraming.mingtoon-0.1.11-preview.2.zip",
-          "zipSHA256": "b0811ab582f4d7a73be8531495f7f7f459e9ce6eaab8723f8a653d2e1e88a818",
-          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.11-preview.2#v0111-preview2",
-          "author": {
-            "name": "StudioRaming",
-            "email": "studioraming@gmail.com"
-          }
-        },
-        "0.1.11-preview.1": {
-          "name": "com.studioraming.mingtoon",
-          "version": "0.1.11-preview.1",
-          "displayName": "MingToon",
-          "unity": "2021.3",
-          "description": "MingToon core BRP toon shader",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.11-preview.1/com.studioraming.mingtoon-0.1.11-preview.1.zip",
-          "zipSHA256": "a9df027642002fe3591d621e1fd6685b4a8c9aa644a7eae730123f6a388461c0",
-          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.11-preview.1#v0111-preview1",
-          "author": {
-            "name": "StudioRaming",
-            "email": "studioraming@gmail.com"
-          }
-        },
-        "0.1.10-preview.2": {
-          "name": "com.studioraming.mingtoon",
-          "version": "0.1.10-preview.2",
-          "displayName": "MingToon",
-          "unity": "2021.3",
-          "description": "MingToon core BRP toon shader (preview test build)",
-          "url": "https://github.com/StudioRaming/mingtoon-distribution/releases/download/v0.1.10-preview.2/com.studioraming.mingtoon-0.1.10-preview.2.zip",
-          "zipSHA256": "9eee56ef4c3080ef77fe0fa0d004f1f3d893fd78b206b704c517830458804bf3",
-          "author": {
-            "name": "StudioRaming",
-            "email": "studioraming@gmail.com"
-          }
+          },
+          "changelogUrl": "https://studioraming.github.io/mingtoon-docs/changelog/0.1.8#v018"
         }
       }
     }
