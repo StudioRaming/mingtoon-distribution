@@ -1,3 +1,33 @@
+# MingToon 0.1.13 Open Beta
+
+BRP Core · Unity 2021.3 / 2022.3 LTS · 2026-10-11
+
+## 한국어
+
+NDMF 기반 도구(Modular Avatar, Avatar Optimizer, TexTransTool 등)와의 호환, 업로드·변환 안정성, 업데이트 후 셰이더 오류 해결, VRC Light Volumes v3 대응을 포함합니다. 업데이트 후 첫 실행에서 MingToon 폴더를 한 번 다시 임포트하므로 시간이 걸릴 수 있습니다. 진행 중에는 Unity를 닫지 마세요. 설치 워밍업 뒤 첫 변환에서 셰이더를 하나 더 컴파일하던 문제를 고쳤습니다. 업데이트 전 프로젝트를 백업하고, 원본 소재에서 다시 변환하세요. 기존 베이크는 복원해 재베이크·재업로드해야 합니다. MLC는 별도 제품입니다.
+
+설치나 업데이트 직후 캐릭터가 분홍색으로 보이면 Project 창에서 MingToon 셰이더를 오른쪽 클릭해 Reimport하세요. 자동 복구는 다음 버전에 넣습니다.
+
+[전체 0.1.13 패치노트](https://studioraming.github.io/mingtoon-docs/changelog/0.1.13#v0113)
+
+## English
+
+Includes compatibility with NDMF-based tools (Modular Avatar, Avatar Optimizer, TexTransTool and others), upload and conversion stability, a fix for shader errors after updating, and VRC Light Volumes v3 support. The first launch after updating reimports the MingToon folder once, which can take a while; do not close Unity while it runs. The first conversion after the install warm-up no longer compiles an extra shader variant. Back up before updating and reconvert from original materials; restore existing baked results to editable form, bake again and re-upload. MLC is separate.
+
+If a character turns pink right after installing or updating, right-click the MingToon shader in the Project window and choose Reimport. Automatic recovery comes in the next version.
+
+[Full 0.1.13 patch notes](https://studioraming.github.io/mingtoon-docs/en/changelog/0.1.13#v0113)
+
+## 日本語
+
+NDMFベースのツール（Modular Avatar、Avatar Optimizer、TexTransToolなど）との互換、アップロードと変換の安定性、更新後のシェーダーエラーの解消、VRC Light Volumes v3への対応を含みます。更新後の初回起動ではMingToonフォルダーを一度再インポートするため、時間がかかることがあります。実行中はUnityを閉じないでください。インストール時のウォームアップ後、最初の変換で余分なシェーダーをコンパイルしていた問題を修正しました。更新前にバックアップし、元の素材から再変換してください。既存のベイク結果は編集用に復元し、再ベイク・再アップロードしてください。MLCは別製品です。
+
+インストールや更新の直後にキャラクターがピンク色になる場合は、ProjectウィンドウでMingToonシェーダーを右クリックしてReimportしてください。自動復旧は次のバージョンで入れます。
+
+[0.1.13 の詳しい変更点](https://studioraming.github.io/mingtoon-docs/ja/changelog/0.1.13#v0113)
+
+---
+
 # MingToon 0.1.12 Open Beta
 
 BRP Core · Unity 2021.3 / 2022.3 LTS · 2026-10-01
