@@ -1,3 +1,27 @@
+# MingToon 0.1.14 Open Beta
+
+BRP Core · Unity 2021.3 / 2022.3 LTS · 2026-10-24
+
+## 한국어
+
+설치·업데이트 뒤 셰이더 준비가 백그라운드로 바뀌어 에디터를 막지 않습니다. NDMF와 함께 쓸 때 업로드가 'Material recovery is incomplete'로 계속 막히던 문제, 0.1.13 변환이 체크하지 않은 메쉬를 굽던 문제(Manager 카드에서 원래 메쉬로 되돌리기), 여러 그림자·림·데칼·글리터 표시 문제, 설치기 오류를 고쳤습니다. 문의할 때 쓰는 `Tools/MingToon/Copy Support Info`와 복구 기록 창이 생겼습니다. 업데이트 전 프로젝트를 백업하세요. 베이크 셰이더는 다음 베이크·업로드 때 새로 만들어지며, 이미 올린 아바타는 다시 업로드해야 반영됩니다. MLC는 별도 제품입니다.
+
+[전체 0.1.14 패치노트](https://studioraming.github.io/mingtoon-docs/changelog/0.1.14#v0114)
+
+## English
+
+Shader preparation after an install or update now runs in the background and no longer blocks the editor. Fixed uploads staying blocked with 'Material recovery is incomplete' when used with NDMF, the 0.1.13 conversion baking meshes you did not check (a Manager card puts the original meshes back), several shadow, rim, decal and glitter display problems, and installer errors. Added `Tools/MingToon/Copy Support Info` for support requests and a Recovery Records window. Back up before updating. Baked shaders are rebuilt at the next bake or upload, and avatars that are already uploaded must be uploaded again. MLC is separate.
+
+[Full 0.1.14 patch notes](https://studioraming.github.io/mingtoon-docs/en/changelog/0.1.14#v0114)
+
+## 日本語
+
+インストール・更新後のシェーダー準備がバックグラウンドで進むようになり、エディターを止めません。NDMFと併用するとアップロードが「Material recovery is incomplete」で止まり続けていた問題、0.1.13の変換がチェックしていないメッシュをベイクしていた問題(Managerのカードから元のメッシュに戻せます)、影・リム・デカール・グリッターの表示の問題、インストーラーのエラーを修正しました。問い合わせ用の`Tools/MingToon/Copy Support Info`と復旧記録ウィンドウを追加しました。更新前にプロジェクトをバックアップしてください。ベイク済みシェーダーは次のベイク・アップロード時に作り直され、すでにアップロードしたアバターは再アップロードが必要です。MLCは別製品です。
+
+[0.1.14 の詳しい変更点](https://studioraming.github.io/mingtoon-docs/ja/changelog/0.1.14#v0114)
+
+---
+
 # MingToon 0.1.13 Open Beta
 
 BRP Core · Unity 2021.3 / 2022.3 LTS · 2026-10-11
